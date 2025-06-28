@@ -65,7 +65,7 @@ Le champ …… est utilisé comme repère de remplacement dans le fichier XML d
 
 Chaque redevable apparaît sur deux lignes. Le traitement est appliqué uniquement à la deuxième ligne avec montant < 0.
 
-## 📚 Auteurs
+## 📚 Auteurs
 
 Script développé par [Hamza Meneceur](https://github.com/HamzaMeneceur)
 
